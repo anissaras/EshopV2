@@ -1,0 +1,20 @@
+# Dossiers
+node_modules/
+dist/
+.tmp/
+coverage/
+temp/
+logs/
+e2e/reports/
+.e2e-test-results/
+
+# Fichiers
+*.log
+*.pid
+*.lock
+*.swp
+
+# Fichiers de configuration
+.env
+.env.*
+config.js
